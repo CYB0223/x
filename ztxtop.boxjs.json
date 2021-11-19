@@ -1,13 +1,13 @@
 {
-  "id": "ztxtop.script.sub",
-  "name": "ztxtop 自用脚本订阅",
-  "author": "@ztxtop",
+  "id": "CYB0223.script.sub",
+  "name": "CYB0223 自用脚本订阅",
+  "author": "@CYB0223",
   "icon": "https://avatars3.githubusercontent.com/u/52337422?s=460&u=0aa6057c2af304d742d20b3b865c34f2902ad5c1&v=4",
   "repo": "https://github.com/CYB0223",
   "apps": [{
       "id": "youthCk",
       "name": "中青数据",
-      "keys": ["youthheader_zq", "read_zq", "readtime_zq", "youthheader_zq2", "read_zq2", "readtime_zq2", "youthheader_zq3", "read_zq3", "readtime_zq3", "youthheader_zq4", "read_zq4", "readtime_zq4", "youthheader_zq5", "read_zq5", "readtime_zq5"],
+      "keys": ["youthheader_zq", "read_zq", "readtime_zq", "youthheader_zq2", "read_zq2", "readtime_zq2", "youthheader_zq3", "read_zq3", "readtime_zq3"],
       "descs_html": [
         "多账号脚本地址【<a href=\"https://raw.githubusercontent.com/CYB0223/x/main/youth.js\">中青看点极速版</a>】",
         "中青多账号ck抓取步骤：",
